@@ -1,7 +1,4 @@
 hola te amo
-<<<<<<< HEAD
 no siento lo mismo, solo te veo como un amigo
-=======
 
 yo también te amo, quieres ser mi novia?
->>>>>>> master
